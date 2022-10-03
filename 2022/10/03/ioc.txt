@@ -1,3 +1,4 @@
 62.76.40.216
 delaxeplot.live
+fastairgut.live
 nowmonmu.live
