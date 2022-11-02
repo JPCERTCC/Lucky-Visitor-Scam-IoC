@@ -2,4 +2,5 @@
 cropcardbody.live
 foreyemed.live
 hatedawneven.live
+psiseatmap.live
 singameply.live
